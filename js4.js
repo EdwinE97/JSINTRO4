@@ -85,8 +85,14 @@ function colorChange(color){
 // Output: -1
 
 
-//write a function
-//
+// sort coins lowest to highest
+// create variable that keep track of how much you have left until amounts to 0
+// create variable to keep track of amount of coins
+    // create loop 
+    //decrement the highest coin from remaining amout 
+    // add 1 to variable to keep track of coins
+//if remaining amount is 0 output variable from line 90
+//else output -1 
 
 
 
