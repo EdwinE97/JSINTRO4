@@ -94,6 +94,17 @@ function colorChange(color){
 //if remaining amount is 0 output variable from line 90
 //else output -1 
 
+    //This hurt my brian so bad my eye didn't stop twitching for a full 24 hours
+
+var currency = [1,5,4,6]
+var sum = 0
 
 
+function coinCount(coins){
+for(i = 0; i < currency.length; i++){
+    if(coins % currency === 0){
+        console.log(sum)
+    }
+}
 
+}
